@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="black_navbar">#070000</color>
+    <color name="black_text">#141414</color>
+    <color name="black_text2">#343031</color>
     <color name="white">#FFFFFFFF</color>
     <color name="purple">#cfcbee</color>
     <color name="green">#e5efce</color>
